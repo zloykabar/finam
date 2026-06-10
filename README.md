@@ -1,2 +1,0 @@
-# finam
-uchet
